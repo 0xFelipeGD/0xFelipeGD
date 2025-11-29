@@ -1,10 +1,6 @@
-<img 
-  src="https://github.com/user-attachments/assets/dbecb2b5-9ec9-4e3d-9cb5-0ebd369f9a0c"
-  width="200"
-  style="border-radius:100px;"
-/>
+## Hey, I'm Felipe Diogo! 
 
-## 🚀 Hey, I'm Felipe Diogo! Welcome to my GitHub!  
+Welcome to my GitHub! 
 
 I’m a **Full-Stack Developer** and Robotics Engineer focused on building scalable, and well-structured **Applications**.  
 My work centers on delivering complete software solutions — from backend architecture to modern, responsive interfaces.
