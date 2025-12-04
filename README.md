@@ -1,11 +1,17 @@
-## Hey, I'm Felipe Diogo! 
+<!-- Animated Header Banner -->
+<img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&customColorList=0,2,3,5&text=I'm%20Felipe%20Diogo!&reversal=false&textBg=false&fontAlign=50&animation=twinkling&fontSize=70&fontAlignY=40&desc=Full-Stack%20Developer%20|%20Blockchain%20Developer%20|%20Drone%20and%20UGV%20Engineer&descAlign=50&descSize=20&descAlignY=60" width="100%"/>
 
-Welcome to my GitHub! 
+<!-- Animated Typing Effect -->
+<p align="center">
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&pause=1000&color=FFFFF&width=435&lines=Welcome+to+my+GitHub!" alt="Typing SVG" /></a>
+</p>
+
 
 I’m a **Full-Stack Developer** and Robotics Engineer focused on building scalable, and well-structured **Applications**.  
 My work centers on delivering complete software solutions — from backend architecture to modern, responsive interfaces.
 
 ### 🔧 What I Build
+
 - **Backend development** (REST APIs, services, architecture)
 - **Frontend development** (clean UI, modern frameworks, usability)
 - **Full-stack applications** designed for real-world scenarios
@@ -14,7 +20,12 @@ My work centers on delivering complete software solutions — from backend archi
 
 This GitHub is my technical workspace — where I organize, build, and share my progress as a **software developer**.
 
+<!-- Animated Divider -->
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+
+
 ### Technologies
+
 ![AI](https://img.shields.io/badge/AI-B31942?style=flat&logo=openai&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
@@ -32,8 +43,8 @@ This GitHub is my technical workspace — where I organize, build, and share my 
 ![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=flat&logo=prisma&logoColor=white)
 ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat&logo=supabase&logoColor=white)
 
-
 ### WEB3 Technologies
+
 ![Solidity](https://img.shields.io/badge/Solidity-2C2C2C?style=flat&logo=solidity&logoColor=white)
 
 ![Hardhat](https://img.shields.io/badge/Hardhat-F7DF1E?style=flat&logo=hardhat&logoColor=black)
