@@ -1,11 +1,6 @@
 <!-- Animated Header Banner -->
 <img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&customColorList=0,2,3,5&text=I'm%20Felipe%20Diogo!&reversal=false&textBg=false&fontAlign=50&animation=twinkling&fontSize=70&fontAlignY=40&desc=Full-Stack%20Developer%20|%20Blockchain%20Developer%20|%20Drone%20and%20UGV%20Engineer&descAlign=50&descSize=20&descAlignY=60" width="100%"/>
 
-<!-- Animated Typing Effect -->
-<p align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&pause=1000&color=FFFFF&width=435&lines=Welcome+to+my+GitHub!" alt="Typing SVG" /></a>
-</p>
-
 
 I’m a **Full-Stack Developer** and Robotics Engineer focused on building scalable, and well-structured **Applications**.  
 My work centers on delivering complete software solutions — from backend architecture to modern, responsive interfaces.
@@ -19,6 +14,7 @@ My work centers on delivering complete software solutions — from backend archi
 - **System integrations** and software-driven automation
 
 This GitHub is my technical workspace — where I organize, build, and share my progress as a **software developer**.
+
 
 <!-- Animated Divider -->
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
@@ -42,6 +38,10 @@ This GitHub is my technical workspace — where I organize, build, and share my 
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
 ![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=flat&logo=prisma&logoColor=white)
 ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat&logo=supabase&logoColor=white)
+
+<!-- Animated Divider -->
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+
 
 ### WEB3 Technologies
 
