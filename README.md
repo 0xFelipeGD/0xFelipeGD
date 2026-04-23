@@ -1,5 +1,5 @@
 <!-- Animated Header Banner -->
-<img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&customColorList=0,2,3,5&text=I'm%20Felipe%20Diogo!&reversal=false&textBg=false&fontAlign=50&animation=twinkling&fontSize=70&fontAlignY=40&desc=Full-Stack%20Developer%20|%20Blockchain%20Developer%20|%20Drone%20and%20UGV%20Engineer&descAlign=50&descSize=20&descAlignY=60" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=I'm%20Felipe%20Diogo!&desc=Full-Stack%20Developer%20|%20Drone%20and%20UGV%20Engineer%20|%20Industry%204.0%20and%20IOT&descAlign=50&descAlignY=60&fontAlign=50&fontAlignY=40" width="100%"/>
 
 
 I’m a **Full-Stack Developer** and Robotics Engineer focused on building scalable, and well-structured **Applications**.  
