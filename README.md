@@ -10,10 +10,10 @@ My work centers on delivering complete software solutions — from backend archi
 - **Backend development** (REST APIs, services, architecture)
 - **Frontend development** (clean UI, modern frameworks, usability)
 - **Full-stack applications** designed for real-world scenarios
-- **BlockChain and Smart Contracts applications** designed for Defi and real-World usecases
+- **Industry 4.0 Tech** designed for Data and real-World usecases
 - **System integrations** and software-driven automation
 
-This GitHub is my technical workspace — where I organize, build, and share my progress as a **software developer**.
+This GitHub is my technical workspace — where I organize, build, and share my progress as a **engineer**.
 
 
 <!-- Animated Divider -->
@@ -25,6 +25,7 @@ This GitHub is my technical workspace — where I organize, build, and share my 
 ![AI](https://img.shields.io/badge/AI-B31942?style=flat&logo=openai&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 
 ![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white)
