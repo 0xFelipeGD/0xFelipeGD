@@ -42,11 +42,3 @@ This GitHub is my technical workspace — where I organize, build, and share my 
 
 <!-- Animated Divider -->
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
-
-
-### WEB3 Technologies
-
-![Solidity](https://img.shields.io/badge/Solidity-2C2C2C?style=flat&logo=solidity&logoColor=white)
-
-![Hardhat](https://img.shields.io/badge/Hardhat-F7DF1E?style=flat&logo=hardhat&logoColor=black)
-![Foundry](https://img.shields.io/badge/Foundry-111111?style=flat&logo=foundry&logoColor=white)
