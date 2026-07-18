@@ -1,44 +1,68 @@
-<!-- Animated Header Banner -->
-<img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=I'm%20Felipe%20Diogo!&desc=Full-Stack%20Developer%20|%20Drone%20and%20UGV%20Engineer%20|%20Industry%204.0%20and%20IOT&descAlign=50&descAlignY=60&fontAlign=50&fontAlignY=40" width="100%"/>
+<p align="center">
+  <img src="./assets/profile-header.svg" width="100%" alt="Felipe Diogo - Control and Automation Engineer" />
+</p>
 
+<p align="center">
+  <a href="https://www.linkedin.com/in/felipegdiogo/">LinkedIn</a> &nbsp;/&nbsp;
+  <a href="https://github.com/0xFelipeGD">GitHub</a>
+</p>
 
-I’m a **Full-Stack Developer** and Robotics Engineer focused on building scalable, and well-structured **Applications**.  
-My work centers on delivering complete software solutions — from backend architecture to modern, responsive interfaces.
+## Engineering profile
 
-### 🔧 What I Build
+I am a Control and Automation Engineer based in Lisbon, with more than seven years of experience across industrial automation, autonomous vehicles and software systems.
 
-- **Backend development** (REST APIs, services, architecture)
-- **Frontend development** (clean UI, modern frameworks, usability)
-- **Full-stack applications** designed for real-world scenarios
-- **Industry 4.0 Tech** designed for Data and real-World usecases
-- **System integrations** and software-driven automation
+My work connects physical equipment to dependable software. I have delivered industrial machines, led UGV and UAV engineering teams, designed power and control systems, integrated LiDAR, GNSS and cameras, and built the applications and data platforms used to operate and understand those systems.
 
-This GitHub is my technical workspace — where I organize, build, and share my progress as a **engineer**.
+Today I work primarily across autonomous systems, Industry 4.0, edge computing, data and applied AI. I am comfortable moving from an electrical schematic or field diagnostic to Python services, ROS 2 nodes, container infrastructure and operator interfaces.
 
+<table>
+  <tr>
+    <td width="33%" valign="top">
+      <strong>Autonomous systems</strong><br><br>
+      UGV architecture, by-wire control, power electronics, safety interlocks, teleoperation, LiDAR, GNSS, cameras and embedded computing.
+    </td>
+    <td width="33%" valign="top">
+      <strong>Industry 4.0</strong><br><br>
+      PLC and SCADA systems, IT/OT integration, industrial protocols, IIoT data paths, commissioning and production-grade observability.
+    </td>
+    <td width="33%" valign="top">
+      <strong>Software, data and AI</strong><br><br>
+      Python and TypeScript applications, APIs, time-series platforms, edge computer vision, automation workflows and LLM-enabled products.
+    </td>
+  </tr>
+</table>
 
-<!-- Animated Divider -->
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+## Selected engineering work
 
+| System | Scope | Engineering focus |
+|---|---|---|
+| **CEROS UGV control platform** | Private production software for a real tracked UGV | ROS 2 on NVIDIA Jetson, cross-platform Electron operator station, WebRTC video, LiDAR, GNSS/RTK, telemetry, missions, automations and safety-aware remote control |
+| **MOV industrial data platform** | Edge-to-cloud monitoring and analytics for industrial assets | MQTT/TLS, Telegraf, InfluxDB, Grafana, Python analytics, Docker, CI/CD, hardened VPS deployment and natural-language reporting |
+| **MLAI edge vision station** | Offline visual inspection for industrial and agricultural use cases | TensorFlow/TFLite, PaDiM anomaly detection, OpenCV, FastAPI, WebSockets, SQLite and a SCADA-style web interface on Raspberry Pi |
+| **[Julius](https://julius-psi.vercel.app)** | AI-assisted personal finance PWA | Next.js, TypeScript, Supabase/PostgreSQL, OpenAI API, structured extraction and interactive financial dashboards |
 
-### Technologies
+Most robotics and industrial repositories are private because they contain real hardware integration, infrastructure details or commercial engineering work. Selected public work is available directly from this GitHub profile.
 
-![AI](https://img.shields.io/badge/AI-B31942?style=flat&logo=openai&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+## Technical range
 
-![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/TailwindCSS-0EA5E9?style=flat&logo=tailwindcss&logoColor=white)
+| Area | Tools and systems |
+|---|---|
+| Control and robotics | ROS 2, motion control, CAN, LiDAR, GNSS/RTK, WebRTC, MQTT, Raspberry Pi, ESP32, NVIDIA Jetson |
+| Industrial automation | TIA Portal, CODESYS, SCADA/HMI, Modbus, Profinet, EtherCAT, OPC UA, Node-RED, EPLAN, AutoCAD |
+| Software engineering | Python, TypeScript, JavaScript, Bash, C/C++, FastAPI, Node.js, React, Next.js, Electron, REST, WebSockets |
+| Data and infrastructure | PostgreSQL, SQLite, InfluxDB, pandas, Docker Compose, Linux, Nginx, systemd, GitHub Actions, Grafana |
+| AI and computer vision | OpenCV, TensorFlow, TFLite, Anomalib/PaDiM, edge inference, LLM APIs and agent-assisted engineering workflows |
 
-![Node.js](https://img.shields.io/badge/Node.js-3C873A?style=flat&logo=nodedotjs&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000000?style=flat&logo=express&logoColor=white)
-![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat&logo=nestjs&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-005C84?style=flat&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
-![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=flat&logo=prisma&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat&logo=supabase&logoColor=white)
+## Experience
 
-<!-- Animated Divider -->
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+| Period | Role | Focus |
+|---|---|---|
+| 2025 - present | Founder and Engineer, Movewer Technologies | Autonomous vehicles, Industry 4.0 platforms, edge AI and end-to-end engineering delivery |
+| 2024 - 2025 | Automation and UGV Engineering Manager, Psyche Aerospace | Built and led a five-person engineering function across agricultural UGV and UAV programs |
+| 2018 - 2024 | Technician and Automation Engineer, Controvale | Delivered industrial machines, electrical systems, PLC/SCADA projects and field commissioning for more than 35 client relationships |
+
+## Current direction
+
+I am interested in engineering roles where robotics, industrial systems and modern software meet. The strongest fit is work involving autonomous platforms, real-time control, edge computing, Industry 4.0, data infrastructure or applied AI.
+
+Based in Lisbon, Portugal. Open to relocation within Europe or the United States.
