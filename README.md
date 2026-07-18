@@ -3,7 +3,6 @@
 </p>
 
 <p align="center">
-  <a href="https://0xfelipegd.com">Portfolio</a> &nbsp;/&nbsp;
   <a href="https://www.linkedin.com/in/felipegdiogo/">LinkedIn</a> &nbsp;/&nbsp;
   <a href="https://github.com/0xFelipeGD">GitHub</a>
 </p>
@@ -42,7 +41,7 @@ Today I work primarily across autonomous systems, Industry 4.0, edge computing, 
 | **MLAI edge vision station** | Offline visual inspection for industrial and agricultural use cases | TensorFlow/TFLite, PaDiM anomaly detection, OpenCV, FastAPI, WebSockets, SQLite and a SCADA-style web interface on Raspberry Pi |
 | **[Julius](https://julius-psi.vercel.app)** | AI-assisted personal finance PWA | Next.js, TypeScript, Supabase/PostgreSQL, OpenAI API, structured extraction and interactive financial dashboards |
 
-Most robotics and industrial repositories are private because they contain real hardware integration, infrastructure details or commercial engineering work. Public projects and deeper case studies are available through my [portfolio](https://0xfelipegd.com).
+Most robotics and industrial repositories are private because they contain real hardware integration, infrastructure details or commercial engineering work. Selected public work is available directly from this GitHub profile.
 
 ## Technical range
 
